@@ -10,7 +10,7 @@ namespace CodeFirstConsoleApp
     {
         /*
          * [NOTE ON MODEL CHANGES]---
-         * In order to make changes to the data model,
+         * In order to make changes to the domain model,
          * there needs to be changes to the database
          * model. Migrations are used to apply these
          * types of changes.
@@ -30,6 +30,9 @@ namespace CodeFirstConsoleApp
          * the 'Update-Database' command to apply the
          * changes to the database.
          */
+
+
+
         static void Main(string[] args)
         {
             // The using statement frees resources 
@@ -135,6 +138,18 @@ namespace CodeFirstConsoleApp
             public DbSet<Blog> Blogs { get; set; }
             public DbSet<Post> Posts { get; set; }
             public DbSet<User> Users { get; set; }
+            // Sometimes there are instances where the database
+            // needs to be confgured and data annotations won't
+            // cut it, so there is the Fluent API to assist in
+            // creating data models. This example changes the 
+            // database table name from DisplayName to 
+            // Display_Name.
+            protected override void OnModelCreating(DbModelBuilder modelBuilder)
+            {
+                modelBuilder.Entity<User>()
+                    .Property(u => u.DisplayName)
+                    .HasColumnName("Display_Name");
+            }
         }
     }
 }
