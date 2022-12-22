@@ -1,0 +1,42 @@
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.AssemblyInfo.cs
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.exe
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.deps.json
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.runtimeconfig.json
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.runtimeconfig.dev.json
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.pdb
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.csproj.CopyComplete
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.dll
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.pdb
+C:\Users\School & Work\source\repos\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.genruntimeconfig.cache
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.csproj.AssemblyReference.cache
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.AssemblyInfoInputs.cache
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.AssemblyInfo.cs
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.csproj.CoreCompileInputs.cache
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.dll
+E:\Projects\Trill-C-Sharp-Reference\DataAnnotationsConsoleApp\obj\Debug\netcoreapp3.1\DataAnnotationsConsoleApp.pdb
